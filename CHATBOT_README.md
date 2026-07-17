@@ -194,15 +194,7 @@ design makes it easy to add new features later — just write a new
 - Designing simple conversational logic (state/memory, randomness,
   personalization) without relying on any AI or external service
 
----
 
-## 🚀 Possible Future Improvements
-
-- Save memory to a file so it persists between program runs
-- Add more topics to the knowledge dictionary
-- Keep score across multiple Rock-Paper-Scissors rounds
-- Build a simple graphical interface (GUI) using Tkinter
-- Log chat history to a file for review
 
 ---
 
