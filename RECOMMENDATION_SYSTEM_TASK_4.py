@@ -1,8 +1,6 @@
 """
 Simple Recommendation System
 
-Internship Task 4
-
 This project recommends movies using a simple
 content-based filtering approach.
 
